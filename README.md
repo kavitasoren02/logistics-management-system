@@ -30,7 +30,7 @@ This is a Spring Boot application for the Backend Engineer assignment with all b
 
 ## How to Run
 
-1. Ensure you have Java 17 and Gradle installed
+1. Ensure you have Java 21 and Gradle installed
 2. Run: `./gradlew bootRun`
 3. Application starts on `http://localhost:8080`
 
