@@ -21,9 +21,6 @@ This submission includes a complete Spring Boot application with all requested b
 ## 1. Link to your Public GitHub Repository
 https://github.com/kavitasoren02/logistics-management-system
 
-## 2. Link to your Video Demonstration
-(Please ensure the link is publicly accessible)
-[Your Google Drive, Loom, or YouTube Link Here]
 
 ## Key Implementation Details
 
