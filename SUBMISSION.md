@@ -19,7 +19,7 @@ This submission includes a complete Spring Boot application with all requested b
 - Professional code organization with separation of concerns
 
 ## 1. Link to your Public GitHub Repository
-[Your GitHub Repository URL Here]
+https://github.com/kavitasoren02/logistics-management-system
 
 ## 2. Link to your Video Demonstration
 (Please ensure the link is publicly accessible)
